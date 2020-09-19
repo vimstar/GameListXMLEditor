@@ -1,0 +1,2871 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./1944.zip</path>
+    <lastplayed>20200415T013444</lastplayed>
+    <playcount>1</playcount>
+    <name>1944: The Loop Master (USA 000620)</name>
+    <image>./media/images/1944.png</image>
+  </game>
+  <game>
+    <path>./19xx.zip</path>
+    <lastplayed>20200415T013624</lastplayed>
+    <playcount>1</playcount>
+    <name>19XX: The War Against Destiny (USA 951207)</name>
+    <image>./media/images/19xx.png</image>
+  </game>
+  <game>
+    <path>./1945kiii.zip</path>
+    <lastplayed>20200415T013549</lastplayed>
+    <playcount>1</playcount>
+    <name>1945k III</name>
+    <image>./media/images/1945kiii.png</image>
+  </game>
+  <game>
+    <path>./1942.zip</path>
+    <lastplayed>20200415T013249</lastplayed>
+    <playcount>1</playcount>
+    <name>1942 (Revision B)</name>
+    <image>./media/images/1942.png</image>
+  </game>
+  <game>
+    <path>./1943.zip</path>
+    <lastplayed>20200415T013345</lastplayed>
+    <playcount>1</playcount>
+    <name>1943: The Battle of Midway (Euro)</name>
+    <image>./media/images/1943.png</image>
+  </game>
+  <game>
+    <path>./1941.zip</path>
+    <lastplayed>20200415T013227</lastplayed>
+    <playcount>1</playcount>
+    <name>1941: Counter Attack (World 900227)</name>
+    <image>./media/images/1941.png</image>
+  </game>
+  <game>
+    <path>./actfancr.zip</path>
+    <lastplayed>20200415T015614</lastplayed>
+    <playcount>1</playcount>
+    <name>Act-Fancer Cybernetick Hyper Weapon (World revision 2)</name>
+    <image>./media/images/actfancr.png</image>
+  </game>
+  <game>
+    <path>./720.zip</path>
+    <lastplayed>20200415T014404</lastplayed>
+    <playcount>1</playcount>
+    <name>720 Degrees (rev 4)</name>
+    <image>./media/images/720.png</image>
+  </game>
+  <game>
+    <path>./abcop.zip</path>
+    <lastplayed>20200415T014633</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>A.B. Cop (World, FD1094 317-0169b)</name>
+    <image>./media/images/abcop.png</image>
+  </game>
+  <game>
+    <path>./64street.zip</path>
+    <lastplayed>20200415T014247</lastplayed>
+    <playcount>1</playcount>
+    <name>64th. Street - A Detective Story (World)</name>
+    <image>./media/images/64street.png</image>
+  </game>
+  <game>
+    <path>./aburner.zip</path>
+    <lastplayed>20200415T020221</lastplayed>
+    <playcount>2</playcount>
+    <name>After Burner</name>
+    <image>./media/images/aburner.png</image>
+  </game>
+  <game>
+    <path>./aburner2.zip</path>
+    <lastplayed>20200415T020321</lastplayed>
+    <playcount>1</playcount>
+    <name>After Burner II</name>
+    <image>./media/images/aburner2.png</image>
+  </game>
+  <game>
+    <path>./aerofgt.zip</path>
+    <lastplayed>20200415T020122</lastplayed>
+    <playcount>1</playcount>
+    <name>Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan) (newer hardware)</name>
+    <image>./media/images/aerofgt.png</image>
+  </game>
+  <game>
+    <path>./aliens.zip</path>
+    <lastplayed>20200415T022331</lastplayed>
+    <playcount>1</playcount>
+    <name>Aliens (World set 1)</name>
+    <image>./media/images/aliens.png</image>
+  </game>
+  <game>
+    <path>./aliensyn.zip</path>
+    <lastplayed>20200415T021412</lastplayed>
+    <playcount>1</playcount>
+    <name>Alien Syndrome (set 4, System 16B, unprotected)</name>
+    <image>./media/images/aliensyn.png</image>
+  </game>
+  <game>
+    <path>./alien3.zip</path>
+    <lastplayed>20200415T021647</lastplayed>
+    <playcount>1</playcount>
+    <name>Alien3: The Gun (World)</name>
+    <image>./media/images/alien3.png</image>
+  </game>
+  <game>
+    <path>./astorm.zip</path>
+    <lastplayed>20200415T021341</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Alien Storm (World, 2 Players, FD1094 317-0154)</name>
+    <image>./media/images/astorm.png</image>
+  </game>
+  <game>
+    <path>./airduel.zip</path>
+    <lastplayed>20200415T020926</lastplayed>
+    <playcount>1</playcount>
+    <name>Air Duel (Japan)</name>
+    <image>./media/images/airduel.png</image>
+  </game>
+  <game>
+    <path>./avsp.zip</path>
+    <lastplayed>20200415T021542</lastplayed>
+    <playcount>1</playcount>
+    <name>Alien vs. Predator (Euro 940520)</name>
+    <image>./media/images/avsp.png</image>
+  </game>
+  <game>
+    <path>./asteroid.zip</path>
+    <lastplayed>20200416T010253</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Asteroids (rev 4)</name>
+    <image>./media/images/asteroid.png</image>
+  </game>
+  <game>
+    <path>./arabfgt.zip</path>
+    <lastplayed>20200416T005820</lastplayed>
+    <playcount>1</playcount>
+    <name>Arabian Fight (World)</name>
+    <image>./media/images/arabfgt.png</image>
+  </game>
+  <game>
+    <path>./armwar.zip</path>
+    <lastplayed>20200416T010047</lastplayed>
+    <playcount>1</playcount>
+    <name>Armored Warriors (Euro 941024)</name>
+    <image>./media/images/armwar.png</image>
+  </game>
+  <game>
+    <path>./avengers.zip</path>
+    <lastplayed>20200416T010450</lastplayed>
+    <playcount>1</playcount>
+    <name>Avengers (US set 1)</name>
+    <image>./media/images/avengers.png</image>
+  </game>
+  <game>
+    <path>./astdelux.zip</path>
+    <lastplayed>20200416T010338</lastplayed>
+    <playcount>1</playcount>
+    <name>Asteroids Deluxe (rev 3)</name>
+    <image>./media/images/astdelux.png</image>
+  </game>
+  <game>
+    <path>./asterix.zip</path>
+    <lastplayed>20200416T010136</lastplayed>
+    <playcount>1</playcount>
+    <name>Asterix (ver EAD)</name>
+    <image>./media/images/asterix.png</image>
+  </game>
+  <game>
+    <path>./baddudes.zip</path>
+    <lastplayed>20200416T010739</lastplayed>
+    <playcount>1</playcount>
+    <name>Bad Dudes vs. Dragonninja (US)</name>
+    <image>./media/images/baddudes.png</image>
+  </game>
+  <game>
+    <path>./athena.zip</path>
+    <lastplayed>20200416T010408</lastplayed>
+    <playcount>1</playcount>
+    <name>Athena</name>
+    <image>./media/images/athena.png</image>
+  </game>
+  <game>
+    <path>./armedf.zip</path>
+    <lastplayed>20200416T005848</lastplayed>
+    <playcount>1</playcount>
+    <name>Armed Formation</name>
+    <image>./media/images/armedf.png</image>
+  </game>
+  <game>
+    <path>./batrider.zip</path>
+    <lastplayed>20200416T010015</lastplayed>
+    <playcount>1</playcount>
+    <name>Armed Police Batrider (Europe) (Fri Feb 13 1998)</name>
+    <image>./media/images/batrider.png</image>
+  </game>
+  <game>
+    <path>./batrid.zip</path>
+    <lastplayed>20200416T011415</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Batrider</name>
+    <image>./media/images/batrid.png</image>
+  </game>
+  <game>
+    <path>./batman.zip</path>
+    <lastplayed>20200416T011102</lastplayed>
+    <playcount>1</playcount>
+    <name>Batman</name>
+    <image>./media/images/batman.png</image>
+  </game>
+  <game>
+    <path>./flipshot.zip</path>
+    <lastplayed>20200416T011823</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Battle Flip Shot</name>
+    <image>./media/images/flipshot.png</image>
+  </game>
+  <game>
+    <path>./bigkarnk.zip</path>
+    <lastplayed>20200416T013244</lastplayed>
+    <playcount>1</playcount>
+    <name>Big Karnak</name>
+    <image>./media/images/bigkarnk.png</image>
+  </game>
+  <game>
+    <path>./bayroute.zip</path>
+    <lastplayed>20200416T013028</lastplayed>
+    <playcount>1</playcount>
+    <name>Bay Route (set 3, World, FD1094 317-0116)</name>
+    <image>./media/images/bayroute.png</image>
+  </game>
+  <game>
+    <path>./btoads.zip</path>
+    <lastplayed>20200416T013004</lastplayed>
+    <playcount>1</playcount>
+    <name>Battletoads</name>
+    <image>./media/images/btoads.png</image>
+  </game>
+  <game>
+    <path>./bmaster.zip</path>
+    <lastplayed>20200416T013419</lastplayed>
+    <playcount>1</playcount>
+    <name>Blade Master (World)</name>
+    <image>./media/images/bmaster.png</image>
+  </game>
+  <game>
+    <path>./bionicc.zip</path>
+    <lastplayed>20200416T013302</lastplayed>
+    <playcount>1</playcount>
+    <name>Bionic Commando (Euro)</name>
+    <image>./media/images/bionicc.png</image>
+  </game>
+  <game>
+    <path>./blktiger.zip</path>
+    <lastplayed>20200416T013335</lastplayed>
+    <playcount>1</playcount>
+    <name>Black Tiger</name>
+    <image>./media/images/blktiger.png</image>
+  </game>
+  <game>
+    <path>./bigfight.zip</path>
+    <lastplayed>20200416T013209</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Big Fight - Big Trouble In The Atlantic Ocean</name>
+    <image>./media/images/bigfight.png</image>
+  </game>
+  <game>
+    <path>./centiped.zip</path>
+    <lastplayed>20200416T220900</lastplayed>
+    <playcount>1</playcount>
+    <name>Centipede (revision 3)</name>
+    <image>./media/images/centiped.png</image>
+  </game>
+  <game>
+    <path>./robotron.zip</path>
+    <name>Robotron: 2084 (Solid Blue label)</name>
+    <image>./media/images/robotron.png</image>
+  </game>
+  <game>
+    <path>./defender.zip</path>
+    <lastplayed>20200416T221503</lastplayed>
+    <playcount>1</playcount>
+    <name>Defender (Red label)</name>
+    <image>./media/images/defender.png</image>
+  </game>
+  <game>
+    <path>./suprmatk.zip</path>
+    <name>Super Missile Attack (for rev 1)</name>
+    <image>./media/images/suprmatk.png</image>
+  </game>
+  <game>
+    <path>./commando.zip</path>
+    <lastplayed>20200416T222458</lastplayed>
+    <playcount>2</playcount>
+    <name>Commando (World)</name>
+    <image>./media/images/commando.png</image>
+  </game>
+  <game>
+    <path>./captaven.zip</path>
+    <lastplayed>20200416T221903</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Captain America and The Avengers (Asia Rev 1.4)</name>
+    <image>./media/images/captaven.png</image>
+  </game>
+  <game>
+    <path>./crimec.zip</path>
+    <lastplayed>20200416T222800</lastplayed>
+    <playcount>1</playcount>
+    <name>Crime City (World)</name>
+    <image>./media/images/crimec.png</image>
+  </game>
+  <game>
+    <path>./cninja.zip</path>
+    <lastplayed>20200416T222055</lastplayed>
+    <playcount>1</playcount>
+    <name>Caveman Ninja (World ver 4)</name>
+    <image>./media/images/cninja.png</image>
+  </game>
+  <game>
+    <path>./chasehq.zip</path>
+    <lastplayed>20200416T222244</lastplayed>
+    <playcount>1</playcount>
+    <name>Chase H.Q. (World)</name>
+    <image>./media/images/chasehq.png</image>
+  </game>
+  <game>
+    <path>./galivan.zip</path>
+    <lastplayed>20200416T222729</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2015</core>
+    <emulator>libretro</emulator>
+    <name>Cosmo Police Galivan (12/26/1985)</name>
+    <image>./media/images/galivan.png</image>
+  </game>
+  <game>
+    <path>./captcomm.zip</path>
+    <lastplayed>20200416T221938</lastplayed>
+    <playcount>1</playcount>
+    <name>Captain Commando (World 911202)</name>
+    <image>./media/images/captcomm.png</image>
+  </game>
+  <game>
+    <path>./citycon.zip</path>
+    <lastplayed>20200416T222306</lastplayed>
+    <playcount>1</playcount>
+    <name>City Connection (set 1)</name>
+    <image>./media/images/citycon.png</image>
+  </game>
+  <game>
+    <path>./cosmccop.zip</path>
+    <lastplayed>20200416T222609</lastplayed>
+    <playcount>1</playcount>
+    <name>Cosmic Cop (World)</name>
+    <image>./media/images/cosmccop.png</image>
+  </game>
+  <game>
+    <path>./dino.zip</path>
+    <lastplayed>20200416T221717</lastplayed>
+    <playcount>1</playcount>
+    <name>Cadillacs and Dinosaurs (World 930201)</name>
+    <image>./media/images/dino.png</image>
+  </game>
+  <game>
+    <path>./cobracom.zip</path>
+    <lastplayed>20200416T222344</lastplayed>
+    <playcount>1</playcount>
+    <name>Cobra-Command (World revision 5)</name>
+    <image>./media/images/cobracom.png</image>
+  </game>
+  <game>
+    <path>./cadash.zip</path>
+    <lastplayed>20200416T221648</lastplayed>
+    <playcount>1</playcount>
+    <name>Cadash (World)</name>
+    <image>./media/images/cadash.png</image>
+  </game>
+  <game>
+    <path>./contra.zip</path>
+    <lastplayed>20200416T222533</lastplayed>
+    <playcount>1</playcount>
+    <name>Contra (US, set 1)</name>
+    <image>./media/images/contra.png</image>
+  </game>
+  <game>
+    <path>./darius.zip</path>
+    <lastplayed>20200416T225650</lastplayed>
+    <playcount>1</playcount>
+    <name>Darius (World)</name>
+    <image>./media/images/darius.png</image>
+  </game>
+  <game>
+    <path>./cybattlr.zip</path>
+    <lastplayed>20200416T224426</lastplayed>
+    <playcount>1</playcount>
+    <name>Cybattler</name>
+    <image>./media/images/cybattlr.png</image>
+  </game>
+  <game>
+    <path>./cybots.zip</path>
+    <lastplayed>20200416T224540</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Cyberbots: Fullmetal Madness (Euro 950424)</name>
+    <image>./media/images/cybots.png</image>
+  </game>
+  <game>
+    <path>./deadconx.zip</path>
+    <lastplayed>20200416T230535</lastplayed>
+    <playcount>1</playcount>
+    <name>Dead Connection (World)</name>
+    <image>./media/images/deadconx.png</image>
+  </game>
+  <game>
+    <path>./crimfght2.zip</path>
+    <lastplayed>20200416T224112</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Crime Fighters (World 2 Players)</name>
+    <image>./media/images/crimfght2.png</image>
+  </game>
+  <game>
+    <path>./daioh.zip</path>
+    <lastplayed>20200416T225056</lastplayed>
+    <playcount>1</playcount>
+    <name>Daioh (set 1)</name>
+    <image>./media/images/daioh.png</image>
+  </game>
+  <game>
+    <path>./crimfght.zip</path>
+    <lastplayed>20200417T002842</lastplayed>
+    <playcount>1</playcount>
+    <hidden>true</hidden>
+    <name>Crime Fighters (US 4 players)</name>
+    <image>./media/images/crimfght.png</image>
+  </game>
+  <game>
+    <path>./darkseal.zip</path>
+    <lastplayed>20200416T230235</lastplayed>
+    <playcount>1</playcount>
+    <name>Dark Seal (World revision 3)</name>
+    <image>./media/images/darkseal.png</image>
+  </game>
+  <game>
+    <path>./dariusg.zip</path>
+    <lastplayed>20200416T225822</lastplayed>
+    <playcount>2</playcount>
+    <name>Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19)</name>
+    <image>./media/images/dariusg.png</image>
+  </game>
+  <game>
+    <path>./dstlk.zip</path>
+    <lastplayed>20200416T230457</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Darkstalkers: The Night Warriors (Euro 940705)</name>
+    <image>./media/images/dstlk.png</image>
+  </game>
+  <game>
+    <path>./ddcrew.zip</path>
+    <lastplayed>20200416T225015</lastplayed>
+    <playcount>4</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>D. D. Crew (World, 3 Players, FD1094 317-0190)</name>
+    <image>./media/images/ddcrew.png</image>
+  </game>
+  <game>
+    <path>./darius2.zip</path>
+    <lastplayed>20200416T225903</lastplayed>
+    <playcount>1</playcount>
+    <name>Darius II (triple screen) (Japan)</name>
+    <image>./media/images/darius2.png</image>
+  </game>
+  <game>
+    <path>./darktowr.zip</path>
+    <lastplayed>20200416T230300</lastplayed>
+    <playcount>1</playcount>
+    <name>Dark Tower</name>
+    <image>./media/images/darktowr.png</image>
+  </game>
+  <game>
+    <path>./cbuster.zip</path>
+    <lastplayed>20200416T224325</lastplayed>
+    <playcount>1</playcount>
+    <name>Crude Buster (World FX version)</name>
+    <image>./media/images/cbuster.png</image>
+  </game>
+  <game>
+    <path>./demonwld.zip</path>
+    <name>Demon's World / Horror Story (set 1)</name>
+    <image>./media/images/demonwld.png</image>
+  </game>
+  <game>
+    <path>./dkongo.zip</path>
+    <lastplayed>20200416T232834</lastplayed>
+    <playcount>1</playcount>
+    <name>Donkey Kong (US set 2)</name>
+    <image>./media/images/dkongo.png</image>
+  </game>
+  <game>
+    <path>./dspirit.zip</path>
+    <lastplayed>20200417T002253</lastplayed>
+    <playcount>1</playcount>
+    <name>Dragon Spirit (new version (DS3))</name>
+    <image>./media/images/dspirit.png</image>
+  </game>
+  <game>
+    <path>./explbrkr.zip</path>
+    <lastplayed>20200417T004437</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Explosive Breaker</name>
+    <image>./media/images/explbrkr.png</image>
+  </game>
+  <game>
+    <path>./ecofghtr.zip</path>
+    <lastplayed>20200417T003425</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Eco Fighters (World 931203)</name>
+    <image>./media/images/ecofghtr.png</image>
+  </game>
+  <game>
+    <path>./eswatbl.zip</path>
+    <lastplayed>20200417T003219</lastplayed>
+    <playcount>1</playcount>
+    <name>E-Swat - Cyber Police (bootleg)</name>
+    <image>./media/images/eswatbl.png</image>
+  </game>
+  <game>
+    <path>./fantzn2.zip</path>
+    <lastplayed>20200417T004705</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)</name>
+    <image>./media/images/fantzn2.png</image>
+  </game>
+  <game>
+    <path>./donpachi.zip</path>
+    <lastplayed>20200416T234748</lastplayed>
+    <playcount>1</playcount>
+    <name>DonPachi (US)</name>
+    <image>./media/images/donpachi.png</image>
+  </game>
+  <game>
+    <path>./dkong3.zip</path>
+    <lastplayed>20200416T234559</lastplayed>
+    <playcount>1</playcount>
+    <name>Donkey Kong 3 (US)</name>
+    <image>./media/images/dkong3.png</image>
+  </game>
+  <game>
+    <path>./fantzone.zip</path>
+    <lastplayed>20200417T004615</lastplayed>
+    <playcount>1</playcount>
+    <name>Fantasy Zone (Rev A, unprotected)</name>
+    <image>./media/images/fantzone.png</image>
+  </game>
+  <game>
+    <path>./ddragon3.zip</path>
+    <lastplayed>20200416T235504</lastplayed>
+    <playcount>1</playcount>
+    <name>Double Dragon 3 - The Rosetta Stone (US)</name>
+    <image>./media/images/ddragon3.png</image>
+  </game>
+  <game>
+    <path>./ddtod.zip</path>
+    <lastplayed>20200417T002939</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Dungeons &amp; Dragons: Tower of Doom (Euro 940412)</name>
+    <image>./media/images/ddtod.png</image>
+  </game>
+  <game>
+    <path>./dkong.zip</path>
+    <lastplayed>20200416T234541</lastplayed>
+    <playcount>9</playcount>
+    <core>mame2003_plus</core>
+    <emulator>libretro</emulator>
+    <name>Donkey Kong (US set 1)</name>
+    <image>./media/images/dkong.png</image>
+  </game>
+  <game>
+    <path>./dblaxle.zip</path>
+    <lastplayed>20200416T235007</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Double Axle (US)</name>
+    <image>./media/images/dblaxle.png</image>
+  </game>
+  <game>
+    <path>./ddragon.zip</path>
+    <lastplayed>20200416T235150</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Double Dragon (Japan)</name>
+    <image>./media/images/ddragon.png</image>
+  </game>
+  <game>
+    <path>./drgnmst.zip</path>
+    <lastplayed>20200417T002209</lastplayed>
+    <playcount>1</playcount>
+    <name>Dragon Master</name>
+    <image>./media/images/drgnmst.png</image>
+  </game>
+  <game>
+    <path>./dkongjr.zip</path>
+    <lastplayed>20200416T234720</lastplayed>
+    <playcount>2</playcount>
+    <name>Donkey Kong Junior (US set F-2)</name>
+    <image>./media/images/dkongjr.png</image>
+  </game>
+  <game>
+    <path>./elevator.zip</path>
+    <lastplayed>20200417T003540</lastplayed>
+    <playcount>1</playcount>
+    <name>Elevator Action</name>
+    <image>./media/images/elevator.png</image>
+  </game>
+  <game>
+    <path>./ddsom.zip</path>
+    <lastplayed>20200417T002819</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960619)</name>
+    <image>./media/images/ddsom.png</image>
+  </game>
+  <game>
+    <path>./eprom.zip</path>
+    <lastplayed>20200417T003927</lastplayed>
+    <playcount>1</playcount>
+    <name>Escape from the Planet of the Robot Monsters (set 1)</name>
+    <image>./media/images/eprom.png</image>
+  </game>
+  <game>
+    <path>./dynagear.zip</path>
+    <lastplayed>20200417T003025</lastplayed>
+    <playcount>1</playcount>
+    <name>Dyna Gear</name>
+    <image>./media/images/dynagear.png</image>
+  </game>
+  <game>
+    <path>./dbreed.zip</path>
+    <lastplayed>20200417T002118</lastplayed>
+    <playcount>1</playcount>
+    <name>Dragon Breed (M81 PCB version)</name>
+    <image>./media/images/dbreed.png</image>
+  </game>
+  <game>
+    <path>./dbz.zip</path>
+    <lastplayed>20200417T002349</lastplayed>
+    <playcount>1</playcount>
+    <name>Dragonball Z (rev B)</name>
+    <image>./media/images/dbz.png</image>
+  </game>
+  <game>
+    <path>./esprade.zip</path>
+    <lastplayed>20200417T004038</lastplayed>
+    <playcount>1</playcount>
+    <name>ESP Ra.De. (International, Ver. 98/04/22)</name>
+    <image>./media/images/esprade.png</image>
+  </game>
+  <game>
+    <path>./ddragon2.zip</path>
+    <lastplayed>20200416T235436</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Double Dragon II - The Revenge (World)</name>
+    <image>./media/images/ddragon2.png</image>
+  </game>
+  <game>
+    <path>./dbz2.zip</path>
+    <lastplayed>20200417T002432</lastplayed>
+    <playcount>1</playcount>
+    <name>Dragonball Z 2 - Super Battle</name>
+    <image>./media/images/dbz2.png</image>
+  </game>
+  <game>
+    <path>./dynwar.zip</path>
+    <lastplayed>20200417T003149</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Dynasty Wars (USA, B-Board 89624B-?)</name>
+    <image>./media/images/dynwar.png</image>
+  </game>
+  <game>
+    <path>./edf.zip</path>
+    <lastplayed>20200417T003301</lastplayed>
+    <playcount>1</playcount>
+    <name>E.D.F. : Earth Defense Force</name>
+    <image>./media/images/edf.png</image>
+  </game>
+  <game>
+    <path>./feversos.zip</path>
+    <lastplayed>20200417T010533</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Fever SOS (International, Ver. 98/09/25)</name>
+    <image>./media/images/feversos.png</image>
+  </game>
+  <game>
+    <path>./inthunt.zip</path>
+    <lastplayed>20200417T072520</lastplayed>
+    <playcount>1</playcount>
+    <name>In The Hunt (World)</name>
+    <image>./media/images/inthunt.png</image>
+  </game>
+  <game>
+    <path>./karianx.zip</path>
+    <lastplayed>20200417T074904</lastplayed>
+    <playcount>1</playcount>
+    <name>Karian Cross (Rev. 1.0)</name>
+    <image>./media/images/karianx.png</image>
+  </game>
+  <game>
+    <path>./garyoret.zip</path>
+    <lastplayed>20200417T014459</lastplayed>
+    <playcount>1</playcount>
+    <name>Garyo Retsuden (Japan)</name>
+    <image>./media/images/garyoret.png</image>
+  </game>
+  <game>
+    <path>./hotdogst.zip</path>
+    <lastplayed>20200417T071842</lastplayed>
+    <playcount>1</playcount>
+    <name>Hotdog Storm (International)</name>
+    <image>./media/images/hotdogst.png</image>
+  </game>
+  <game>
+    <path>./hook.zip</path>
+    <lastplayed>20200417T071748</lastplayed>
+    <playcount>1</playcount>
+    <name>Hook (World)</name>
+    <image>./media/images/hook.png</image>
+  </game>
+  <game>
+    <path>./gunsmoke.zip</path>
+    <lastplayed>20200417T065806</lastplayed>
+    <playcount>1</playcount>
+    <name>Gun.Smoke (World)</name>
+    <image>./media/images/gunsmoke.png</image>
+  </game>
+  <game>
+    <path>./lghost.zip</path>
+    <lastplayed>20200417T080708</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Laser Ghost (World, FD1094 317-0166)</name>
+    <image>./media/images/lghost.png</image>
+  </game>
+  <game>
+    <path>./hellfire.zip</path>
+    <lastplayed>20200417T071627</lastplayed>
+    <playcount>1</playcount>
+    <name>Hellfire (2P set)</name>
+    <image>./media/images/hellfire.png</image>
+  </game>
+  <game>
+    <path>./joust.zip</path>
+    <lastplayed>20200417T073520</lastplayed>
+    <playcount>1</playcount>
+    <name>Joust (White/Green label)</name>
+    <image>./media/images/joust.png</image>
+  </game>
+  <game>
+    <path>./growl.zip</path>
+    <lastplayed>20200417T064329</lastplayed>
+    <playcount>1</playcount>
+    <name>Growl (World)</name>
+    <image>./media/images/growl.png</image>
+  </game>
+  <game>
+    <path>./lomakai.zip</path>
+    <lastplayed>20200417T081342</lastplayed>
+    <playcount>1</playcount>
+    <name>Legend of Makai (World)</name>
+    <image>./media/images/lomakai.png</image>
+  </game>
+  <game>
+    <path>./kbash2.zip</path>
+    <lastplayed>20200417T080332</lastplayed>
+    <playcount>1</playcount>
+    <name>Knuckle Bash 2 (bootleg)</name>
+    <image>./media/images/kbash2.png</image>
+  </game>
+  <game>
+    <path>./grdians.zip</path>
+    <lastplayed>20200417T064856</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Guardians / Denjin Makai II</name>
+    <image>./media/images/grdians.png</image>
+  </game>
+  <game>
+    <path>./gunforc2.zip</path>
+    <lastplayed>20200417T065722</lastplayed>
+    <playcount>1</playcount>
+    <name>Gun Force II (US)</name>
+    <image>./media/images/gunforc2.png</image>
+  </game>
+  <game>
+    <path>./kageki.zip</path>
+    <lastplayed>20200417T074134</lastplayed>
+    <playcount>1</playcount>
+    <name>Kageki (US)</name>
+    <image>./media/images/kageki.png</image>
+  </game>
+  <game>
+    <path>./goldnaxe.zip</path>
+    <lastplayed>20200417T015405</lastplayed>
+    <playcount>1</playcount>
+    <name>Golden Axe (set 6, US, 8751 317-123A)</name>
+    <image>./media/images/goldnaxe.png</image>
+  </game>
+  <game>
+    <path>./gunforce.zip</path>
+    <lastplayed>20200417T070359</lastplayed>
+    <playcount>1</playcount>
+    <name>Gunforce - Battle Fire Engulfed Terror Island (World)</name>
+    <image>./media/images/gunforce.png</image>
+  </game>
+  <game>
+    <path>./gradius.zip</path>
+    <lastplayed>20200417T020201</lastplayed>
+    <playcount>1</playcount>
+    <name>Gradius (Japan, ROM version)</name>
+    <image>./media/images/gradius.png</image>
+  </game>
+  <game>
+    <path>./knights.zip</path>
+    <lastplayed>20200417T075606</lastplayed>
+    <playcount>1</playcount>
+    <name>Knights of the Round (World 911127)</name>
+    <image>./media/images/knights.png</image>
+  </game>
+  <game>
+    <path>./ldrun.zip</path>
+    <lastplayed>20200417T081933</lastplayed>
+    <playcount>1</playcount>
+    <name>Lode Runner (set 1)</name>
+    <image>./media/images/ldrun.png</image>
+  </game>
+  <game>
+    <path>./kengo.zip</path>
+    <lastplayed>20200417T075133</lastplayed>
+    <playcount>1</playcount>
+    <name>Ken-Go</name>
+    <image>./media/images/kengo.png</image>
+  </game>
+  <game>
+    <path>./knckhead.zip</path>
+    <lastplayed>20200417T080435</lastplayed>
+    <playcount>1</playcount>
+    <name>Knuckle Heads (World)</name>
+    <image>./media/images/knckhead.png</image>
+  </game>
+  <game>
+    <path>./ldrun4.zip</path>
+    <lastplayed>20200417T082031</lastplayed>
+    <playcount>1</playcount>
+    <name>Lode Runner IV - Teikoku Karano Dasshutsu</name>
+    <image>./media/images/ldrun4.png</image>
+  </game>
+  <game>
+    <path>./offroad.zip</path>
+    <lastplayed>20200417T072831</lastplayed>
+    <playcount>1</playcount>
+    <name>Ironman Ivan Stewart's Super Off-Road</name>
+    <image>./media/images/offroad.png</image>
+  </game>
+  <game>
+    <path>./gunbird.zip</path>
+    <lastplayed>20200417T070133</lastplayed>
+    <playcount>1</playcount>
+    <name>Gunbird (World)</name>
+    <image>./media/images/gunbird.png</image>
+  </game>
+  <game>
+    <path>./crshrace.zip</path>
+    <lastplayed>20200417T081551</lastplayed>
+    <playcount>1</playcount>
+    <name>Lethal Crash Race (set 1)</name>
+    <image>./media/images/crshrace.png</image>
+  </game>
+  <game>
+    <path>./lethalth.zip</path>
+    <lastplayed>20200417T081624</lastplayed>
+    <playcount>1</playcount>
+    <name>Lethal Thunder (World)</name>
+    <image>./media/images/lethalth.png</image>
+  </game>
+  <game>
+    <path>./joust2.zip</path>
+    <lastplayed>20200417T073651</lastplayed>
+    <playcount>1</playcount>
+    <name>Joust 2 - Survival of the Fittest</name>
+    <image>./media/images/joust2.png</image>
+  </game>
+  <game>
+    <path>./hangon.zip</path>
+    <lastplayed>20200417T071524</lastplayed>
+    <playcount>1</playcount>
+    <name>Hang-On (Rev A)</name>
+    <image>./media/images/hangon.png</image>
+  </game>
+  <game>
+    <path>./lockon.zip</path>
+    <lastplayed>20200417T081908</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Lock-On (rev. E)</name>
+    <image>./media/images/lockon.png</image>
+  </game>
+  <game>
+    <path>./guwange.zip</path>
+    <lastplayed>20200417T071305</lastplayed>
+    <playcount>1</playcount>
+    <name>Guwange (Japan, Master Ver. 99/06/24)</name>
+    <image>./media/images/guwange.png</image>
+  </game>
+  <game>
+    <path>./gekirido.zip</path>
+    <lastplayed>20200417T014643</lastplayed>
+    <playcount>1</playcount>
+    <name>gekirido</name>
+    <image>./media/images/gekirido.png</image>
+  </game>
+  <game>
+    <path>./gng.zip</path>
+    <lastplayed>20200417T014854</lastplayed>
+    <playcount>1</playcount>
+    <name>Ghosts'n Goblins (World? set 1)</name>
+    <image>./media/images/gng.png</image>
+  </game>
+  <game>
+    <path>./klax.zip</path>
+    <lastplayed>20200417T075528</lastplayed>
+    <playcount>1</playcount>
+    <name>Klax (set 1)</name>
+    <image>./media/images/klax.png</image>
+  </game>
+  <game>
+    <path>./karatblz.zip</path>
+    <lastplayed>20200417T074449</lastplayed>
+    <playcount>1</playcount>
+    <name>Karate Blazers (World)</name>
+    <image>./media/images/karatblz.png</image>
+  </game>
+  <game>
+    <path>./kungfum.zip</path>
+    <lastplayed>20200417T080527</lastplayed>
+    <playcount>1</playcount>
+    <name>Kung-Fu Master (World)</name>
+    <image>./media/images/kungfum.png</image>
+  </game>
+  <game>
+    <path>./joemacr.zip</path>
+    <lastplayed>20200417T073439</lastplayed>
+    <playcount>1</playcount>
+    <name>Joe &amp; Mac Returns (World, Version 1.1, 1994.05.27)</name>
+    <image>./media/images/joemacr.png</image>
+  </game>
+  <game>
+    <path>./ldrun3.zip</path>
+    <lastplayed>20200417T082008</lastplayed>
+    <playcount>1</playcount>
+    <name>Lode Runner III - The Golden Labyrinth</name>
+    <image>./media/images/ldrun3.png</image>
+  </game>
+  <game>
+    <path>./gratia.zip</path>
+    <lastplayed>20200417T020614</lastplayed>
+    <playcount>1</playcount>
+    <name>Gratia - Second Earth (92047-01 version)</name>
+    <image>./media/images/gratia.png</image>
+  </game>
+  <game>
+    <path>./gemini.zip</path>
+    <lastplayed>20200417T014724</lastplayed>
+    <playcount>1</playcount>
+    <name>Gemini Wing (Japan)</name>
+    <image>./media/images/gemini.png</image>
+  </game>
+  <game>
+    <path>./gberet.zip</path>
+    <lastplayed>20200417T020636</lastplayed>
+    <playcount>1</playcount>
+    <name>Green Beret</name>
+    <image>./media/images/gberet.png</image>
+  </game>
+  <game>
+    <path>./gradius2.zip</path>
+    <lastplayed>20200417T020450</lastplayed>
+    <playcount>1</playcount>
+    <name>Gradius II - GOFER no Yabou (Japan New Ver.)</name>
+    <image>./media/images/gradius2.png</image>
+  </game>
+  <game>
+    <path>./gradius3.zip</path>
+    <lastplayed>20200417T020526</lastplayed>
+    <playcount>1</playcount>
+    <name>Gradius III (World, program code R)</name>
+    <image>./media/images/gradius3.png</image>
+  </game>
+  <game>
+    <path>./jdreddp.zip</path>
+    <lastplayed>20200417T073931</lastplayed>
+    <playcount>1</playcount>
+    <name>Judge Dredd (rev LA1, prototype)</name>
+    <image>./media/images/jdreddp.png</image>
+  </game>
+  <game>
+    <path>./ldrun2.zip</path>
+    <lastplayed>20200417T081950</lastplayed>
+    <playcount>1</playcount>
+    <name>Lode Runner II - The Bungeling Strikes Back</name>
+    <image>./media/images/ldrun2.png</image>
+  </game>
+  <game>
+    <path>./gforce2.zip</path>
+    <lastplayed>20200417T014008</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Galaxy Force 2</name>
+    <image>./media/images/gforce2.png</image>
+  </game>
+  <game>
+    <path>./hippodrm.zip</path>
+    <lastplayed>20200417T071656</lastplayed>
+    <playcount>1</playcount>
+    <name>Hippodrome (US)</name>
+    <image>./media/images/hippodrm.png</image>
+  </game>
+  <game>
+    <path>./jrpacman.zip</path>
+    <lastplayed>20200417T073756</lastplayed>
+    <playcount>1</playcount>
+    <name>Jr. Pac-Man (11/9/83)</name>
+    <image>./media/images/jrpacman.png</image>
+  </game>
+  <game>
+    <path>./lastduel.zip</path>
+    <lastplayed>20200417T080958</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Last Duel (US New Ver.)</name>
+    <image>./media/images/lastduel.png</image>
+  </game>
+  <game>
+    <path>./gaunt2.zip</path>
+    <lastplayed>20200417T014554</lastplayed>
+    <playcount>1</playcount>
+    <name>Gauntlet II</name>
+    <image>./media/images/gaunt2.png</image>
+  </game>
+  <game>
+    <path>./plegends.zip</path>
+    <lastplayed>20200417T015338</lastplayed>
+    <playcount>1</playcount>
+    <name>Gogetsuji Legends (US, Ver. 95/06/20)</name>
+    <image>./media/images/plegends.png</image>
+  </game>
+  <game>
+    <path>./hcastle.zip</path>
+    <lastplayed>20200417T071547</lastplayed>
+    <playcount>1</playcount>
+    <name>Haunted Castle (version M)</name>
+    <image>./media/images/hcastle.png</image>
+  </game>
+  <game>
+    <path>./lwings.zip</path>
+    <lastplayed>20200417T081442</lastplayed>
+    <playcount>1</playcount>
+    <name>Legendary Wings (US set 1)</name>
+    <image>./media/images/lwings.png</image>
+  </game>
+  <game>
+    <path>./gauntlet.zip</path>
+    <lastplayed>20200417T014526</lastplayed>
+    <playcount>1</playcount>
+    <name>Gauntlet (rev 14)</name>
+    <image>./media/images/gauntlet.png</image>
+  </game>
+  <game>
+    <path>./insectx.zip</path>
+    <lastplayed>20200417T072647</lastplayed>
+    <playcount>1</playcount>
+    <name>Insector X (World)</name>
+    <image>./media/images/insectx.png</image>
+  </game>
+  <game>
+    <path>./galaga.zip</path>
+    <lastplayed>20200417T013928</lastplayed>
+    <playcount>3</playcount>
+    <ratio>3/4</ratio>
+    <core>mame2000</core>
+    <emulator>libretro</emulator>
+    <name>Galaga (Namco rev. B)</name>
+    <image>./media/images/galaga.png</image>
+  </game>
+  <game>
+    <path>./karnov.zip</path>
+    <lastplayed>20200417T075011</lastplayed>
+    <playcount>1</playcount>
+    <name>Karnov (US, rev 6)</name>
+    <image>./media/images/karnov.png</image>
+  </game>
+  <game>
+    <path>./hsf2.zip</path>
+    <lastplayed>20200417T072204</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Hyper Street Fighter 2: The Anniversary Edition (USA 040202)</name>
+    <image>./media/images/hsf2.png</image>
+  </game>
+  <game>
+    <path>./ga2.zip</path>
+    <lastplayed>20200417T015852</lastplayed>
+    <playcount>1</playcount>
+    <name>Golden Axe: The Revenge of Death Adder (World)</name>
+    <image>./media/images/ga2.png</image>
+  </game>
+  <game>
+    <path>./gbusters.zip</path>
+    <lastplayed>20200417T014047</lastplayed>
+    <playcount>1</playcount>
+    <name>Gang Busters (set 1)</name>
+    <image>./media/images/gbusters.png</image>
+  </game>
+  <game>
+    <path>./gangwars.zip</path>
+    <lastplayed>20200417T014223</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2015</core>
+    <emulator>libretro</emulator>
+    <name>Gang Wars</name>
+    <image>./media/images/gangwars.png</image>
+  </game>
+  <game>
+    <path>./gunnail.zip</path>
+    <lastplayed>20200417T070757</lastplayed>
+    <playcount>1</playcount>
+    <name>GunNail (28th May. 1992)</name>
+    <image>./media/images/gunnail.png</image>
+  </game>
+  <game>
+    <path>./hyprduel.zip</path>
+    <lastplayed>20200417T071924</lastplayed>
+    <playcount>1</playcount>
+    <name>Hyper Duel (Japan set 1)</name>
+    <image>./media/images/hyprduel.png</image>
+  </game>
+  <game>
+    <path>./gigawing.zip</path>
+    <lastplayed>20200417T015135</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Giga Wing (USA 990222)</name>
+    <image>./media/images/gigawing.png</image>
+  </game>
+  <game>
+    <path>./ghouls.zip</path>
+    <lastplayed>20200417T015003</lastplayed>
+    <playcount>1</playcount>
+    <name>Ghouls'n Ghosts (World)</name>
+    <image>./media/images/ghouls.png</image>
+  </game>
+  <game>
+    <path>./mario.zip</path>
+    <lastplayed>20200417T205239</lastplayed>
+    <playcount>1</playcount>
+    <name>Mario Bros. (US, Revision F)</name>
+    <image>./media/images/mario.png</image>
+  </game>
+  <game>
+    <path>./mcatadv.zip</path>
+    <lastplayed>20200417T204025</lastplayed>
+    <playcount>1</playcount>
+    <name>Magical Cat Adventure</name>
+    <image>./media/images/mcatadv.png</image>
+  </game>
+  <game>
+    <path>./majtitle.zip</path>
+    <lastplayed>20200417T204446</lastplayed>
+    <playcount>1</playcount>
+    <name>Major Title (World)</name>
+    <image>./media/images/majtitle.png</image>
+  </game>
+  <game>
+    <path>./mia.zip</path>
+    <lastplayed>20200417T202417</lastplayed>
+    <playcount>1</playcount>
+    <name>M.I.A. - Missing in Action (version T)</name>
+    <image>./media/images/mia.png</image>
+  </game>
+  <game>
+    <path>./mtlchamp.zip</path>
+    <lastplayed>20200417T205454</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Martial Champion (ver EAB)</name>
+    <image>./media/images/mtlchamp.png</image>
+  </game>
+  <game>
+    <path>./madgear.zip</path>
+    <lastplayed>20200417T203730</lastplayed>
+    <playcount>4</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Mad Gear (US)</name>
+    <image>./media/images/madgear.png</image>
+  </game>
+  <game>
+    <path>./madmotor.zip</path>
+    <lastplayed>20200417T203816</lastplayed>
+    <playcount>1</playcount>
+    <name>Mad Motor</name>
+    <image>./media/images/madmotor.png</image>
+  </game>
+  <game>
+    <path>./majtitl2.zip</path>
+    <lastplayed>20200417T204542</lastplayed>
+    <playcount>1</playcount>
+    <name>Major Title 2 (World)</name>
+    <image>./media/images/majtitl2.png</image>
+  </game>
+  <game>
+    <path>./msword.zip</path>
+    <lastplayed>20200417T203941</lastplayed>
+    <playcount>1</playcount>
+    <name>Magic Sword: Heroic Fantasy (World 900725)</name>
+    <image>./media/images/msword.png</image>
+  </game>
+  <game>
+    <path>./mmatrix.zip</path>
+    <lastplayed>20200417T205322</lastplayed>
+    <playcount>1</playcount>
+    <name>Mars Matrix: Hyper Solid Shooting (USA 000412)</name>
+    <image>./media/images/mmatrix.png</image>
+  </game>
+  <game>
+    <path>./madshark.zip</path>
+    <lastplayed>20200417T203859</lastplayed>
+    <playcount>1</playcount>
+    <name>Mad Shark</name>
+    <image>./media/images/madshark.png</image>
+  </game>
+  <game>
+    <path>./mshvsf.zip</path>
+    <lastplayed>20200417T210844</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Marvel Super Heroes Vs. Street Fighter (Euro 970625)</name>
+    <image>./media/images/mshvsf.png</image>
+  </game>
+  <game>
+    <path>./msh.zip</path>
+    <lastplayed>20200417T210726</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Marvel Super Heroes (Euro 951024)</name>
+    <image>./media/images/msh.png</image>
+  </game>
+  <game>
+    <path>./mvsc.zip</path>
+    <lastplayed>20200417T211055</lastplayed>
+    <playcount>1</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Marvel Vs. Capcom: Clash of Super Heroes (Euro 980123)</name>
+    <image>./media/images/mvsc.png</image>
+  </game>
+  <game>
+    <path>./milliped.zip</path>
+    <lastplayed>20200417T221103</lastplayed>
+    <playcount>1</playcount>
+    <name>Millipede</name>
+    <image>./media/images/milliped.png</image>
+  </game>
+  <game>
+    <path>./mtwins.zip</path>
+    <lastplayed>20200417T220239</lastplayed>
+    <playcount>1</playcount>
+    <name>Mega Twins (World 900619)</name>
+    <image>./media/images/mtwins.png</image>
+  </game>
+  <game>
+    <path>./metalb.zip</path>
+    <lastplayed>20200417T220426</lastplayed>
+    <playcount>1</playcount>
+    <name>Metal Black (World)</name>
+    <image>./media/images/metalb.png</image>
+  </game>
+  <game>
+    <path>./megablst.zip</path>
+    <lastplayed>20200417T215732</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Mega Blast (World)</name>
+    <image>./media/images/megablst.png</image>
+  </game>
+  <game>
+    <path>./mercs.zip</path>
+    <lastplayed>20200417T220328</lastplayed>
+    <playcount>1</playcount>
+    <name>Mercs (World 900302)</name>
+    <image>./media/images/mercs.png</image>
+  </game>
+  <game>
+    <path>./mwalk.zip</path>
+    <lastplayed>20200417T220710</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Michael Jackson's Moonwalker (World, FD1094/8751 317-0159)</name>
+    <image>./media/images/mwalk.png</image>
+  </game>
+  <game>
+    <path>./metamrph.zip</path>
+    <lastplayed>20200417T220613</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Metamorphic Force (ver EAA)</name>
+    <image>./media/images/metamrph.png</image>
+  </game>
+  <game>
+    <path>./megaman2.zip</path>
+    <lastplayed>20200417T215942</lastplayed>
+    <playcount>1</playcount>
+    <name>Mega Man 2: The Power Fighters (USA 960708)</name>
+    <image>./media/images/megaman2.png</image>
+  </game>
+  <game>
+    <path>./masterw.zip</path>
+    <lastplayed>20200417T211313</lastplayed>
+    <playcount>1</playcount>
+    <name>Master of Weapon (World)</name>
+    <image>./media/images/masterw.png</image>
+  </game>
+  <game>
+    <path>./megaman.zip</path>
+    <lastplayed>20200417T220041</lastplayed>
+    <playcount>1</playcount>
+    <name>Mega Man: The Power Battle (CPS1, USA 951006)</name>
+    <image>./media/images/megaman.png</image>
+  </game>
+  <game>
+    <path>./mwarr.zip</path>
+    <lastplayed>20200417T220812</lastplayed>
+    <playcount>1</playcount>
+    <name>Mighty Warriors</name>
+    <image>./media/images/mwarr.png</image>
+  </game>
+  <game>
+    <path>./msgundam.zip</path>
+    <lastplayed>20200417T221336</lastplayed>
+    <playcount>1</playcount>
+    <name>Mobile Suit Gundam</name>
+    <image>./media/images/msgundam.png</image>
+  </game>
+  <game>
+    <path>./midres.zip</path>
+    <lastplayed>20200417T220734</lastplayed>
+    <playcount>1</playcount>
+    <name>Midnight Resistance (World)</name>
+    <image>./media/images/midres.png</image>
+  </game>
+  <game>
+    <path>./mirninja.zip</path>
+    <lastplayed>20200417T221159</lastplayed>
+    <playcount>1</playcount>
+    <name>Mirai Ninja (Japan)</name>
+    <image>./media/images/mirninja.png</image>
+  </game>
+  <game>
+    <path>./gdfs.zip</path>
+    <lastplayed>20200417T221251</lastplayed>
+    <playcount>1</playcount>
+    <name>Mobil Suit Gundam Final Shooting (Japan)</name>
+    <image>./media/images/gdfs.png</image>
+  </game>
+  <game>
+    <path>./metmqstr.zip</path>
+    <lastplayed>20200417T220507</lastplayed>
+    <playcount>1</playcount>
+    <name>Metamoqester (International)</name>
+    <image>./media/images/metmqstr.png</image>
+  </game>
+  <game>
+    <path>./mmancp2u.zip</path>
+    <lastplayed>20200417T220059</lastplayed>
+    <playcount>1</playcount>
+    <name>Mega Man: The Power Battle (CPS2, USA 951006, SAMPLE Version)</name>
+    <image>./media/images/mmancp2u.png</image>
+  </game>
+  <game>
+    <path>./gundamex.zip</path>
+    <lastplayed>20200417T221423</lastplayed>
+    <playcount>1</playcount>
+    <name>Mobile Suit Gundam EX Revue</name>
+    <image>./media/images/gundamex.png</image>
+  </game>
+  <game>
+    <path>./mazinger.zip</path>
+    <lastplayed>20200417T215649</lastplayed>
+    <playcount>1</playcount>
+    <name>Mazinger Z (World)</name>
+    <image>./media/images/mazinger.png</image>
+  </game>
+  <game>
+    <path>./mmaulers.zip</path>
+    <lastplayed>20200418T012239</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Monster Maulers (ver EAA)</name>
+    <image>./media/images/mmaulers.png</image>
+  </game>
+  <game>
+    <path>./mk.zip</path>
+    <lastplayed>20200418T012453</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Mortal Kombat (rev 5.0 T-Unit 03/19/93)</name>
+    <image>./media/images/mk.png</image>
+  </game>
+  <game>
+    <path>./moo.zip</path>
+    <lastplayed>20200418T012348</lastplayed>
+    <playcount>1</playcount>
+    <name>moo</name>
+    <image>./media/images/moo.png</image>
+  </game>
+  <game>
+    <path>./pacman.zip</path>
+    <lastplayed>20200419T020146</lastplayed>
+    <playcount>1</playcount>
+    <name>Pac-Man (Midway)</name>
+    <image>./media/images/pacman.png</image>
+  </game>
+  <game>
+    <path>./salamand.zip</path>
+    <lastplayed>20200419T032137</lastplayed>
+    <playcount>1</playcount>
+    <name>Salamander (version D)</name>
+    <image>./media/images/salamand.png</image>
+  </game>
+  <game>
+    <path>./gaiden.zip</path>
+    <lastplayed>20200419T014229</lastplayed>
+    <playcount>1</playcount>
+    <name>Ninja Gaiden (US)</name>
+    <image>./media/images/gaiden.png</image>
+  </game>
+  <game>
+    <path>./oscar.zip</path>
+    <lastplayed>20200419T022452</lastplayed>
+    <playcount>1</playcount>
+    <name>Psycho-Nics Oscar (World revision 0)</name>
+    <image>./media/images/oscar.png</image>
+  </game>
+  <game>
+    <path>./rampage.zip</path>
+    <lastplayed>20200419T025056</lastplayed>
+    <playcount>1</playcount>
+    <name>Rampage (Rev 3, 8/27/86)</name>
+    <image>./media/images/rampage.png</image>
+  </game>
+  <game>
+    <path>./rohga.zip</path>
+    <lastplayed>20200419T031527</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Rohga Armor Force (Asia/Europe v5.0)</name>
+    <image>./media/images/rohga.png</image>
+  </game>
+  <game>
+    <path>./popeye.zip</path>
+    <lastplayed>20200419T021320</lastplayed>
+    <playcount>1</playcount>
+    <name>Popeye (revision D)</name>
+    <image>./media/images/popeye.png</image>
+  </game>
+  <game>
+    <path>./progear.zip</path>
+    <lastplayed>20200419T022253</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Progear (USA 010117)</name>
+    <image>./media/images/progear.png</image>
+  </game>
+  <game>
+    <path>./pacplus.zip</path>
+    <lastplayed>20200419T020328</lastplayed>
+    <playcount>1</playcount>
+    <name>Pac-Man Plus</name>
+    <image>./media/images/pacplus.png</image>
+  </game>
+  <game>
+    <path>./robocop.zip</path>
+    <lastplayed>20200419T031142</lastplayed>
+    <playcount>1</playcount>
+    <name>Robocop (World revision 4)</name>
+    <image>./media/images/robocop.png</image>
+  </game>
+  <game>
+    <path>./paperboy.zip</path>
+    <lastplayed>20200419T020547</lastplayed>
+    <playcount>1</playcount>
+    <name>Paperboy (rev 3)</name>
+    <image>./media/images/paperboy.png</image>
+  </game>
+  <game>
+    <path>./punchout.zip</path>
+    <lastplayed>20200419T022638</lastplayed>
+    <playcount>1</playcount>
+    <name>Punch-Out!!</name>
+    <image>./media/images/punchout.png</image>
+  </game>
+  <game>
+    <path>./powerins.zip</path>
+    <lastplayed>20200419T021655</lastplayed>
+    <playcount>1</playcount>
+    <name>Power Instinct (USA)</name>
+    <image>./media/images/powerins.png</image>
+  </game>
+  <game>
+    <path>./rezon.zip</path>
+    <lastplayed>20200419T030317</lastplayed>
+    <playcount>1</playcount>
+    <name>Rezon</name>
+    <image>./media/images/rezon.png</image>
+  </game>
+  <game>
+    <path>./pow.zip</path>
+    <lastplayed>20200419T020118</lastplayed>
+    <playcount>1</playcount>
+    <name>P.O.W. - Prisoners of War (US version 1)</name>
+    <image>./media/images/pow.png</image>
+  </game>
+  <game>
+    <path>./osman.zip</path>
+    <lastplayed>20200419T015511</lastplayed>
+    <playcount>4</playcount>
+    <core>mame2003_plus</core>
+    <emulator>libretro</emulator>
+    <name>Osman (World)</name>
+    <image>./media/images/osman.png</image>
+  </game>
+  <game>
+    <path>./pacmania.zip</path>
+    <lastplayed>20200419T020405</lastplayed>
+    <playcount>1</playcount>
+    <name>Pac-Mania</name>
+    <image>./media/images/pacmania.png</image>
+  </game>
+  <game>
+    <path>./kazan.zip</path>
+    <lastplayed>20200419T014603</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2015</core>
+    <emulator>libretro</emulator>
+    <name>Ninja Kazan (World)</name>
+    <image>./media/images/kazan.png</image>
+  </game>
+  <game>
+    <path>./ordyne.zip</path>
+    <lastplayed>20200419T015043</lastplayed>
+    <playcount>1</playcount>
+    <name>Ordyne (Japan, English Version)</name>
+    <image>./media/images/ordyne.png</image>
+  </game>
+  <game>
+    <path>./outzone.zip</path>
+    <lastplayed>20200419T015651</lastplayed>
+    <playcount>1</playcount>
+    <name>Out Zone</name>
+    <image>./media/images/outzone.png</image>
+  </game>
+  <game>
+    <path>./ryujin.zip</path>
+    <lastplayed>20200419T031754</lastplayed>
+    <playcount>1</playcount>
+    <name>Ryu Jin (Japan)</name>
+    <image>./media/images/ryujin.png</image>
+  </game>
+  <game>
+    <path>./rtype2.zip</path>
+    <lastplayed>20200419T023501</lastplayed>
+    <playcount>1</playcount>
+    <name>R-Type II</name>
+    <image>./media/images/rtype2.png</image>
+  </game>
+  <game>
+    <path>./poundfor.zip</path>
+    <lastplayed>20200419T021440</lastplayed>
+    <playcount>1</playcount>
+    <name>Pound for Pound (World)</name>
+    <image>./media/images/poundfor.png</image>
+  </game>
+  <game>
+    <path>./opwolf.zip</path>
+    <lastplayed>20200419T015002</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Operation Wolf (World, set 1)</name>
+    <image>./media/images/opwolf.png</image>
+  </game>
+  <game>
+    <path>./riotcity.zip</path>
+    <lastplayed>20200419T031038</lastplayed>
+    <playcount>1</playcount>
+    <name>Riot City (Japan)</name>
+    <image>./media/images/riotcity.png</image>
+  </game>
+  <game>
+    <path>./p47.zip</path>
+    <lastplayed>20200419T015908</lastplayed>
+    <playcount>1</playcount>
+    <name>P-47 - The Phantom Fighter (World)</name>
+    <image>./media/images/p47.png</image>
+  </game>
+  <game>
+    <path>./salmndr2.zip</path>
+    <lastplayed>20200419T032243</lastplayed>
+    <playcount>1</playcount>
+    <name>Salamander 2 (ver JAA)</name>
+    <image>./media/images/salmndr2.png</image>
+  </game>
+  <game>
+    <path>./pulirula.zip</path>
+    <lastplayed>20200419T022523</lastplayed>
+    <playcount>1</playcount>
+    <name>PuLiRuLa (World)</name>
+    <image>./media/images/pulirula.png</image>
+  </game>
+  <game>
+    <path>./outrun.zip</path>
+    <lastplayed>20200419T015616</lastplayed>
+    <playcount>1</playcount>
+    <name>Out Run (sitdown/upright, Rev B)</name>
+    <image>./media/images/outrun.png</image>
+  </game>
+  <game>
+    <path>./nost.zip</path>
+    <lastplayed>20200419T014756</lastplayed>
+    <playcount>1</playcount>
+    <name>Nostradamus</name>
+    <image>./media/images/nost.png</image>
+  </game>
+  <game>
+    <path>./rastan.zip</path>
+    <lastplayed>20200419T025854</lastplayed>
+    <playcount>1</playcount>
+    <name>Rastan (World Rev 1)</name>
+    <image>./media/images/rastan.png</image>
+  </game>
+  <game>
+    <path>./rtype.zip</path>
+    <lastplayed>20200419T023423</lastplayed>
+    <playcount>1</playcount>
+    <name>R-Type (World)</name>
+    <image>./media/images/rtype.png</image>
+  </game>
+  <game>
+    <path>./rtypeleo.zip</path>
+    <lastplayed>20200419T023812</lastplayed>
+    <playcount>1</playcount>
+    <name>R-Type Leo (World)</name>
+    <image>./media/images/rtypeleo.png</image>
+  </game>
+  <game>
+    <path>./nwarr.zip</path>
+    <lastplayed>20200419T013722</lastplayed>
+    <playcount>1</playcount>
+    <name>Night Warriors: Darkstalkers' Revenge (Euro 950316)</name>
+    <image>./media/images/nwarr.png</image>
+  </game>
+  <game>
+    <path>./pdrift.zip</path>
+    <lastplayed>20200419T021607</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Power Drift (World, Rev A)</name>
+    <image>./media/images/pdrift.png</image>
+  </game>
+  <game>
+    <path>./pwrinst2.zip</path>
+    <lastplayed>20200419T021737</lastplayed>
+    <playcount>1</playcount>
+    <name>Power Instinct 2 (US, Ver. 94/04/08)</name>
+    <image>./media/images/pwrinst2.png</image>
+  </game>
+  <game>
+    <path>./pitfall2.zip</path>
+    <lastplayed>20200419T020805</lastplayed>
+    <playcount>1</playcount>
+    <name>Pitfall II (315-5093)</name>
+    <image>./media/images/pitfall2.png</image>
+  </game>
+  <game>
+    <path>./qbert.zip</path>
+    <lastplayed>20200419T023306</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2003_plus</core>
+    <emulator>libretro</emulator>
+    <name>Q*bert (US set 1)</name>
+    <image>./media/images/qbert.png</image>
+  </game>
+  <game>
+    <path>./p47aces.zip</path>
+    <lastplayed>20200419T020003</lastplayed>
+    <playcount>1</playcount>
+    <name>P-47 Aces</name>
+    <image>./media/images/p47aces.png</image>
+  </game>
+  <game>
+    <path>./robocop2.zip</path>
+    <lastplayed>20200419T031215</lastplayed>
+    <playcount>1</playcount>
+    <name>Robocop 2 (Euro/Asia v0.10)</name>
+    <image>./media/images/robocop2.png</image>
+  </game>
+  <game>
+    <path>./raiden.zip</path>
+    <lastplayed>20200419T024353</lastplayed>
+    <playcount>1</playcount>
+    <name>Raiden (set 1)</name>
+    <image>./media/images/raiden.png</image>
+  </game>
+  <game>
+    <path>./pitfight.zip</path>
+    <lastplayed>20200419T020642</lastplayed>
+    <playcount>1</playcount>
+    <name>Pit Fighter (rev 9)</name>
+    <image>./media/images/pitfight.png</image>
+  </game>
+  <game>
+    <path>./nspirit.zip</path>
+    <lastplayed>20200419T014709</lastplayed>
+    <playcount>1</playcount>
+    <name>Ninja Spirit</name>
+    <image>./media/images/nspirit.png</image>
+  </game>
+  <game>
+    <path>./samuraia.zip</path>
+    <lastplayed>20200419T032354</lastplayed>
+    <playcount>1</playcount>
+    <name>Samurai Aces (World)</name>
+    <image>./media/images/samuraia.png</image>
+  </game>
+  <game>
+    <path>./rshark.zip</path>
+    <lastplayed>20200419T023351</lastplayed>
+    <playcount>1</playcount>
+    <name>R-Shark</name>
+    <image>./media/images/rshark.png</image>
+  </game>
+  <game>
+    <path>./stratof.zip</path>
+    <lastplayed>20200419T025020</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Raiga - Strato Fighter (US)</name>
+    <image>./media/images/stratof.png</image>
+  </game>
+  <game>
+    <path>./sailormn.zip</path>
+    <lastplayed>20200419T021854</lastplayed>
+    <playcount>1</playcount>
+    <name>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe)</name>
+    <image>./media/images/sailormn.png</image>
+  </game>
+  <game>
+    <path>./rthun2.zip</path>
+    <lastplayed>20200419T031629</lastplayed>
+    <playcount>1</playcount>
+    <name>Rolling Thunder 2</name>
+    <image>./media/images/rthun2.png</image>
+  </game>
+  <game>
+    <path>./renegade.zip</path>
+    <lastplayed>20200419T030247</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Renegade (US)</name>
+    <image>./media/images/renegade.png</image>
+  </game>
+  <game>
+    <path>./ringdest.zip</path>
+    <lastplayed>20200419T030835</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Ring of Destruction: Slammasters II (Euro 940902)</name>
+    <image>./media/images/ringdest.png</image>
+  </game>
+  <game>
+    <path>./ssmissin.zip</path>
+    <lastplayed>20200419T031910</lastplayed>
+    <playcount>1</playcount>
+    <name>S.S. Mission</name>
+    <image>./media/images/ssmissin.png</image>
+  </game>
+  <game>
+    <path>./raphero.zip</path>
+    <lastplayed>20200419T025826</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Rapid Hero</name>
+    <image>./media/images/raphero.png</image>
+  </game>
+  <game>
+    <path>./rampart.zip</path>
+    <lastplayed>20200419T025716</lastplayed>
+    <playcount>1</playcount>
+    <name>Rampart (Trackball)</name>
+    <image>./media/images/rampart.png</image>
+  </game>
+  <game>
+    <path>./rygar.zip</path>
+    <lastplayed>20200419T031707</lastplayed>
+    <playcount>1</playcount>
+    <name>Rygar (US set 1)</name>
+    <image>./media/images/rygar.png</image>
+  </game>
+  <game>
+    <path>./nslasher.zip</path>
+    <lastplayed>20200419T013627</lastplayed>
+    <playcount>1</playcount>
+    <name>Night Slashers (Korea Rev 1.3)</name>
+    <image>./media/images/nslasher.png</image>
+  </game>
+  <game>
+    <path>./nbbatman.zip</path>
+    <lastplayed>20200419T013941</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Ninja Baseball Bat Man (World)</name>
+    <image>./media/images/nbbatman.png</image>
+  </game>
+  <game>
+    <path>./slammast.zip</path>
+    <lastplayed>20200420T200929</lastplayed>
+    <playcount>1</playcount>
+    <name>Saturday Night Slam Masters (World 930713)</name>
+    <image>./media/images/slammast.png</image>
+  </game>
+  <game>
+    <path>./sandscrp.zip</path>
+    <lastplayed>20200420T195837</lastplayed>
+    <playcount>2</playcount>
+    <name>Sand Scorpion</name>
+    <image>./media/images/sandscrp.png</image>
+  </game>
+  <game>
+    <path>./sectionz.zip</path>
+    <lastplayed>20200420T201439</lastplayed>
+    <playcount>1</playcount>
+    <name>Section Z (set 1)</name>
+    <image>./media/images/sectionz.png</image>
+  </game>
+  <game>
+    <path>./sdfight.zip</path>
+    <lastplayed>20200420T201416</lastplayed>
+    <playcount>1</playcount>
+    <name>SD Fighters (Korea)</name>
+    <image>./media/images/sdfight.png</image>
+  </game>
+  <game>
+    <path>./rthunder.zip</path>
+    <lastplayed>20200420T200850</lastplayed>
+    <playcount>3</playcount>
+    <name>Rolling Thunder (rev 3)</name>
+    <image>./media/images/rthunder.png</image>
+  </game>
+  <game>
+    <path>./spy.zip</path>
+    <lastplayed>20200420T195953</lastplayed>
+    <playcount>2</playcount>
+    <name>S.P.Y. - Special Project Y (World ver. N)</name>
+    <image>./media/images/spy.png</image>
+  </game>
+  <game>
+    <path>./smashtv.zip</path>
+    <lastplayed>20200420T205733</lastplayed>
+    <playcount>1</playcount>
+    <name>Smash T.V. (rev 8.00)</name>
+    <image>./media/images/smashtv.png</image>
+  </game>
+  <game>
+    <path>./skysoldr.zip</path>
+    <lastplayed>20200420T205312</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Sky Soldiers (US)</name>
+    <image>./media/images/skysoldr.png</image>
+  </game>
+  <game>
+    <path>./skysmash.zip</path>
+    <lastplayed>20200420T205107</lastplayed>
+    <playcount>1</playcount>
+    <name>Sky Smasher</name>
+    <image>./media/images/skysmash.png</image>
+  </game>
+  <game>
+    <path>./silentd.zip</path>
+    <lastplayed>20200420T204523</lastplayed>
+    <playcount>1</playcount>
+    <name>Silent Dragon (World)</name>
+    <image>./media/images/silentd.png</image>
+  </game>
+  <game>
+    <path>./skullfng.zip</path>
+    <lastplayed>20200420T204753</lastplayed>
+    <playcount>1</playcount>
+    <name>Skull Fang (World)</name>
+    <image>./media/images/skullfng.png</image>
+  </game>
+  <game>
+    <path>./shogwarr.zip</path>
+    <lastplayed>20200420T204410</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Shogun Warriors (World)</name>
+    <image>./media/images/shogwarr.png</image>
+  </game>
+  <game>
+    <path>./silkworm.zip</path>
+    <lastplayed>20200420T204556</lastplayed>
+    <playcount>1</playcount>
+    <name>Silk Worm (World)</name>
+    <image>./media/images/silkworm.png</image>
+  </game>
+  <game>
+    <path>./shinobi.zip</path>
+    <lastplayed>20200420T204244</lastplayed>
+    <playcount>1</playcount>
+    <name>Shinobi (set 6, System 16A, unprotected)</name>
+    <image>./media/images/shinobi.png</image>
+  </game>
+  <game>
+    <path>./shdancer.zip</path>
+    <lastplayed>20200420T202955</lastplayed>
+    <playcount>1</playcount>
+    <name>Shadow Dancer (World)</name>
+    <image>./media/images/shdancer.png</image>
+  </game>
+  <game>
+    <path>./simpsn2p.zip</path>
+    <lastplayed>20200420T204637</lastplayed>
+    <playcount>1</playcount>
+    <name>Simpsons, The (2 Players)</name>
+    <image>./media/images/simpsn2p.png</image>
+  </game>
+  <game>
+    <path>./skyadvnt.zip</path>
+    <lastplayed>20200420T204833</lastplayed>
+    <playcount>1</playcount>
+    <name>Sky Adventure (World)</name>
+    <image>./media/images/skyadvnt.png</image>
+  </game>
+  <game>
+    <path>./sinistar.zip</path>
+    <lastplayed>20200420T204709</lastplayed>
+    <playcount>1</playcount>
+    <name>Sinistar (revision 3)</name>
+    <image>./media/images/sinistar.png</image>
+  </game>
+  <game>
+    <path>./slyspy.zip</path>
+    <lastplayed>20200420T205340</lastplayed>
+    <playcount>1</playcount>
+    <name>Sly Spy (US revision 3)</name>
+    <image>./media/images/slyspy.png</image>
+  </game>
+  <game>
+    <path>./sidearms.zip</path>
+    <lastplayed>20200420T204441</lastplayed>
+    <playcount>1</playcount>
+    <name>Side Arms - Hyper Dyne (World)</name>
+    <image>./media/images/sidearms.png</image>
+  </game>
+  <game>
+    <path>./stmblade.zip</path>
+    <lastplayed>20200420T213342</lastplayed>
+    <playcount>1</playcount>
+    <name>Storm Blade (US)</name>
+    <image>./media/images/stmblade.png</image>
+  </game>
+  <game>
+    <path>./invadpt2.zip</path>
+    <lastplayed>20200420T211854</lastplayed>
+    <playcount>1</playcount>
+    <name>Space Invaders Part II (Taito)</name>
+    <image>./media/images/invadpt2.png</image>
+  </game>
+  <game>
+    <path>./stagger1.zip</path>
+    <lastplayed>20200420T213023</lastplayed>
+    <playcount>1</playcount>
+    <name>Stagger I (Japan)</name>
+    <image>./media/images/stagger1.png</image>
+  </game>
+  <game>
+    <path>./spyhunt2.zip</path>
+    <lastplayed>20200420T212956</lastplayed>
+    <playcount>1</playcount>
+    <name>Spy Hunter II (rev 2)</name>
+    <image>./media/images/spyhunt2.png</image>
+  </game>
+  <game>
+    <path>./sci.zip</path>
+    <lastplayed>20200420T212010</lastplayed>
+    <playcount>1</playcount>
+    <name>Special Criminal Investigation (World set 1)</name>
+    <image>./media/images/sci.png</image>
+  </game>
+  <game>
+    <path>./spelunkr.zip</path>
+    <lastplayed>20200420T212305</lastplayed>
+    <playcount>1</playcount>
+    <name>Spelunker</name>
+    <image>./media/images/spelunkr.png</image>
+  </game>
+  <game>
+    <path>./solfigtr.zip</path>
+    <lastplayed>20200420T210223</lastplayed>
+    <playcount>1</playcount>
+    <name>Solitary Fighter (World)</name>
+    <image>./media/images/solfigtr.png</image>
+  </game>
+  <game>
+    <path>./spyhunt.zip</path>
+    <lastplayed>20200420T212839</lastplayed>
+    <playcount>1</playcount>
+    <name>Spy Hunter</name>
+    <image>./media/images/spyhunt.png</image>
+  </game>
+  <game>
+    <path>./stlforce.zip</path>
+    <lastplayed>20200420T213253</lastplayed>
+    <playcount>1</playcount>
+    <name>Steel Force</name>
+    <image>./media/images/stlforce.png</image>
+  </game>
+  <game>
+    <path>./spelunk2.zip</path>
+    <lastplayed>20200420T212322</lastplayed>
+    <playcount>1</playcount>
+    <name>Spelunker II</name>
+    <image>./media/images/spelunk2.png</image>
+  </game>
+  <game>
+    <path>./sharrier.zip</path>
+    <lastplayed>20200420T210704</lastplayed>
+    <playcount>1</playcount>
+    <name>Space Harrier (Rev A, 8751 315-5163A)</name>
+    <image>./media/images/sharrier.png</image>
+  </game>
+  <game>
+    <path>./invaders.zip</path>
+    <lastplayed>20200420T211821</lastplayed>
+    <playcount>7</playcount>
+    <core>mame2003_plus</core>
+    <emulator>libretro</emulator>
+    <name>Space Invaders / Space Invaders M</name>
+    <image>./media/images/invaders.png</image>
+  </game>
+  <game>
+    <path>./solomon.zip</path>
+    <lastplayed>20200420T210255</lastplayed>
+    <playcount>1</playcount>
+    <name>Solomon's Key (US)</name>
+    <image>./media/images/solomon.png</image>
+  </game>
+  <game>
+    <path>./splatter.zip</path>
+    <lastplayed>20200420T212745</lastplayed>
+    <playcount>1</playcount>
+    <name>Splatter House (World, new version (SH3))</name>
+    <image>./media/images/splatter.png</image>
+  </game>
+  <game>
+    <path>./starwars.zip</path>
+    <lastplayed>20200420T213214</lastplayed>
+    <playcount>1</playcount>
+    <name>Star Wars (rev 2)</name>
+    <image>./media/images/starwars.png</image>
+  </game>
+  <game>
+    <path>./sfau.zip</path>
+    <lastplayed>20200420T214103</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter Alpha: Warriors' Dreams (USA 950627)</name>
+    <image>./media/images/sfau.png</image>
+  </game>
+  <game>
+    <path>./sfa2.zip</path>
+    <lastplayed>20200420T213715</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter Alpha 2 (Euro 960229)</name>
+    <image>./media/images/sfa2.png</image>
+  </game>
+  <game>
+    <path>./sf1.zip</path>
+    <lastplayed>20200420T213640</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter (World)</name>
+    <image>./media/images/sf1.png</image>
+  </game>
+  <game>
+    <path>./sfa3.zip</path>
+    <lastplayed>20200420T214005</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Street Fighter Alpha 3 (Euro 980904)</name>
+    <image>./media/images/sfa3.png</image>
+  </game>
+  <game>
+    <path>./s1945.zip</path>
+    <lastplayed>20200420T215956</lastplayed>
+    <playcount>1</playcount>
+    <name>Strikers 1945 (World)</name>
+    <image>./media/images/s1945.png</image>
+  </game>
+  <game>
+    <path>./sf2.zip</path>
+    <lastplayed>20200420T214821</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter II: The World Warrior (World 910522)</name>
+    <image>./media/images/sf2.png</image>
+  </game>
+  <game>
+    <path>./scessjoe.zip</path>
+    <lastplayed>20200420T220459</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Success Joe (World)</name>
+    <image>./media/images/scessjoe.png</image>
+  </game>
+  <game>
+    <path>./sftm.zip</path>
+    <lastplayed>20200420T215414</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter: The Movie (v1.12)</name>
+    <image>./media/images/sftm.png</image>
+  </game>
+  <game>
+    <path>./s1945ii.zip</path>
+    <lastplayed>20200420T220046</lastplayed>
+    <playcount>1</playcount>
+    <name>Strikers 1945 II</name>
+    <image>./media/images/s1945ii.png</image>
+  </game>
+  <game>
+    <path>./sfz2al.zip</path>
+    <lastplayed>20200420T215027</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Street Fighter Zero 2 Alpha (Asia 960826)</name>
+    <image>./media/images/sfz2al.png</image>
+  </game>
+  <game>
+    <path>./streetsm.zip</path>
+    <lastplayed>20200420T215531</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Smart (US version 2)</name>
+    <image>./media/images/streetsm.png</image>
+  </game>
+  <game>
+    <path>./strider.zip</path>
+    <lastplayed>20200420T215552</lastplayed>
+    <playcount>1</playcount>
+    <name>Strider (USA, B-Board 89624B-2)</name>
+    <image>./media/images/strider.png</image>
+  </game>
+  <game>
+    <path>./sf2ce.zip</path>
+    <lastplayed>20200420T214744</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter II': Champion Edition (World 920513)</name>
+    <image>./media/images/sf2ce.png</image>
+  </game>
+  <game>
+    <path>./sfz3a.zip</path>
+    <lastplayed>20200420T215315</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2003_plus</core>
+    <emulator>libretro</emulator>
+    <name>Street Fighter Zero 3 (Asia 980904)</name>
+    <image>./media/images/sfz3a.png</image>
+  </game>
+  <game>
+    <path>./sf2t.zip</path>
+    <lastplayed>20200420T214710</lastplayed>
+    <playcount>1</playcount>
+    <name>Street Fighter II' - Hyper Fighting (US)</name>
+    <image>./media/images/sf2t.png</image>
+  </game>
+  <game>
+    <path>./superx.zip</path>
+    <lastplayed>20200422T021538</lastplayed>
+    <playcount>1</playcount>
+    <name>Super-X (NTC)</name>
+    <image>./media/images/superx.png</image>
+  </game>
+  <game>
+    <path>./suratk.zip</path>
+    <lastplayed>20200422T021845</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Surprise Attack (World ver. K)</name>
+    <image>./media/images/suratk.png</image>
+  </game>
+  <game>
+    <path>./ssf2.zip</path>
+    <lastplayed>20200422T021511</lastplayed>
+    <playcount>1</playcount>
+    <name>Super Street Fighter II: The New Challengers (World 930911)</name>
+    <image>./media/images/ssf2.png</image>
+  </game>
+  <game>
+    <path>./survarts.zip</path>
+    <lastplayed>20200422T021926</lastplayed>
+    <playcount>1</playcount>
+    <name>Survival Arts (World)</name>
+    <image>./media/images/survarts.png</image>
+  </game>
+  <game>
+    <path>./superman.zip</path>
+    <lastplayed>20200422T021650</lastplayed>
+    <playcount>1</playcount>
+    <name>Superman (World)</name>
+    <image>./media/images/superman.png</image>
+  </game>
+  <game>
+    <path>./ssoldier.zip</path>
+    <lastplayed>20200422T021619</lastplayed>
+    <playcount>1</playcount>
+    <name>Superior Soldiers (US)</name>
+    <image>./media/images/ssoldier.png</image>
+  </game>
+  <game>
+    <path>./tmnt2pj.zip</path>
+    <lastplayed>20200423T010133</lastplayed>
+    <playcount>1</playcount>
+    <name>Teenage Mutant Ninja Turtles (Japan 2 Players)</name>
+    <image>./media/images/tmnt2pj.png</image>
+  </game>
+  <game>
+    <path>./unsquad.zip</path>
+    <lastplayed>20200423T075025</lastplayed>
+    <playcount>1</playcount>
+    <name>U.N. Squadron (USA)</name>
+    <image>./media/images/unsquad.png</image>
+  </game>
+  <game>
+    <path>./twineagl.zip</path>
+    <lastplayed>20200423T074321</lastplayed>
+    <playcount>1</playcount>
+    <name>Twin Eagle - Revenge Joe's Brother</name>
+    <image>./media/images/twineagl.png</image>
+  </game>
+  <game>
+    <path>./tengai.zip</path>
+    <lastplayed>20200423T010721</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Tengai (World)</name>
+    <image>./media/images/tengai.png</image>
+  </game>
+  <game>
+    <path>./thndrbld.zip</path>
+    <lastplayed>20200423T013214</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Thunder Blade (upright, FD1094 317-0056)</name>
+    <image>./media/images/thndrbld.png</image>
+  </game>
+  <game>
+    <path>./thndrx2.zip</path>
+    <lastplayed>20200423T013302</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Cross II (World)</name>
+    <image>./media/images/thndrx2.png</image>
+  </game>
+  <game>
+    <path>./twineag2.zip</path>
+    <lastplayed>20200423T074554</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Twin Eagle II - The Rescue Mission</name>
+    <image>./media/images/twineag2.png</image>
+  </game>
+  <game>
+    <path>./tdragon.zip</path>
+    <lastplayed>20200423T013338</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Dragon (9th Jan. 1992)</name>
+    <image>./media/images/tdragon.png</image>
+  </game>
+  <game>
+    <path>./tmnt22p.zip</path>
+    <lastplayed>20200423T010226</lastplayed>
+    <playcount>1</playcount>
+    <name>Teenage Mutant Ninja Turtles - Turtles in Time (2 Players US)</name>
+    <image>./media/images/tmnt22p.png</image>
+  </game>
+  <game>
+    <path>./thundfox.zip</path>
+    <lastplayed>20200423T013530</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Fox (World)</name>
+    <image>./media/images/thundfox.png</image>
+  </game>
+  <game>
+    <path>./tattass.zip</path>
+    <lastplayed>20200423T005843</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Tattoo Assassins (US prototype)</name>
+    <image>./media/images/tattass.png</image>
+  </game>
+  <game>
+    <path>./tdragon2.zip</path>
+    <lastplayed>20200423T013425</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Thunder Dragon 2 (9th Nov. 1993)</name>
+    <image>./media/images/tdragon2.png</image>
+  </game>
+  <game>
+    <path>./turbofrc.zip</path>
+    <lastplayed>20200423T073300</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Turbo Force (old revision)</name>
+    <image>./media/images/turbofrc.png</image>
+  </game>
+  <game>
+    <path>./trackfld.zip</path>
+    <lastplayed>20200423T072307</lastplayed>
+    <playcount>1</playcount>
+    <name>Track &amp; Field</name>
+    <image>./media/images/trackfld.png</image>
+  </game>
+  <game>
+    <path>./thunderx.zip</path>
+    <lastplayed>20200423T013238</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Cross (set 1)</name>
+    <image>./media/images/thunderx.png</image>
+  </game>
+  <game>
+    <path>./uccops.zip</path>
+    <lastplayed>20200423T075714</lastplayed>
+    <playcount>1</playcount>
+    <name>Undercover Cops (World)</name>
+    <image>./media/images/uccops.png</image>
+  </game>
+  <game>
+    <path>./todruaga.zip</path>
+    <lastplayed>20200423T012516</lastplayed>
+    <playcount>1</playcount>
+    <name>The Tower of Druaga (New Ver.)</name>
+    <image>./media/images/todruaga.png</image>
+  </game>
+  <game>
+    <path>./3wonders.zip</path>
+    <lastplayed>20200423T012825</lastplayed>
+    <playcount>1</playcount>
+    <name>Three Wonders (World 910520)</name>
+    <image>./media/images/3wonders.png</image>
+  </game>
+  <game>
+    <path>./darkmist.zip</path>
+    <lastplayed>20200423T011301</lastplayed>
+    <playcount>1</playcount>
+    <name>The Lost Castle In Darkmist</name>
+    <image>./media/images/darkmist.png</image>
+  </game>
+  <game>
+    <path>./punisher.zip</path>
+    <lastplayed>20200423T012242</lastplayed>
+    <playcount>1</playcount>
+    <name>The Punisher (World 930422)</name>
+    <image>./media/images/punisher.png</image>
+  </game>
+  <game>
+    <path>./turtship.zip</path>
+    <lastplayed>20200423T073939</lastplayed>
+    <playcount>1</playcount>
+    <name>Turtle Ship (North America)</name>
+    <image>./media/images/turtship.png</image>
+  </game>
+  <game>
+    <path>./trojan.zip</path>
+    <lastplayed>20200423T072354</lastplayed>
+    <playcount>1</playcount>
+    <name>Trojan (US set 1)</name>
+    <image>./media/images/trojan.png</image>
+  </game>
+  <game>
+    <path>./twincobr.zip</path>
+    <lastplayed>20200423T074036</lastplayed>
+    <playcount>1</playcount>
+    <name>Twin Cobra (World)</name>
+    <image>./media/images/twincobr.png</image>
+  </game>
+  <game>
+    <path>./twinhawk.zip</path>
+    <lastplayed>20200423T074734</lastplayed>
+    <playcount>1</playcount>
+    <name>Twin Hawk (World)</name>
+    <image>./media/images/twinhawk.png</image>
+  </game>
+  <game>
+    <path>./tharrier.zip</path>
+    <lastplayed>20200423T004850</lastplayed>
+    <playcount>1</playcount>
+    <name>Task Force Harrier</name>
+    <image>./media/images/tharrier.png</image>
+  </game>
+  <game>
+    <path>./truxton.zip</path>
+    <lastplayed>20200423T072714</lastplayed>
+    <playcount>1</playcount>
+    <name>Truxton / Tatsujin</name>
+    <image>./media/images/truxton.png</image>
+  </game>
+  <game>
+    <path>./tigeroad.zip</path>
+    <lastplayed>20200423T013818</lastplayed>
+    <playcount>1</playcount>
+    <name>Tiger Road (US)</name>
+    <image>./media/images/tigeroad.png</image>
+  </game>
+  <game>
+    <path>./ctribe.zip</path>
+    <lastplayed>20200423T010925</lastplayed>
+    <playcount>1</playcount>
+    <name>The Combatribes (US)</name>
+    <image>./media/images/ctribe.png</image>
+  </game>
+  <game>
+    <path>./tempest2.zip</path>
+    <lastplayed>20200423T010609</lastplayed>
+    <playcount>1</playcount>
+    <name>Tempest (rev 2)</name>
+    <image>./media/images/tempest2.png</image>
+  </game>
+  <game>
+    <path>./tfrceac.zip</path>
+    <lastplayed>20200423T013457</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Force AC</name>
+    <image>./media/images/tfrceac.png</image>
+  </game>
+  <game>
+    <path>./silkroad.zip</path>
+    <lastplayed>20200423T011223</lastplayed>
+    <playcount>1</playcount>
+    <name>The Legend of Silkroad</name>
+    <image>./media/images/silkroad.png</image>
+  </game>
+  <game>
+    <path>./lkage.zip</path>
+    <lastplayed>20200423T011140</lastplayed>
+    <playcount>1</playcount>
+    <name>The Legend of Kage</name>
+    <image>./media/images/lkage.png</image>
+  </game>
+  <game>
+    <path>./ninjaw.zip</path>
+    <lastplayed>20200423T011841</lastplayed>
+    <playcount>1</playcount>
+    <name>The Ninja Warriors (World)</name>
+    <image>./media/images/ninjaw.png</image>
+  </game>
+  <game>
+    <path>./thunderj.zip</path>
+    <lastplayed>20200423T013743</lastplayed>
+    <playcount>1</playcount>
+    <name>ThunderJaws (rev 3)</name>
+    <image>./media/images/thunderj.png</image>
+  </game>
+  <game>
+    <path>./earthjkr.zip</path>
+    <lastplayed>20200423T074922</lastplayed>
+    <playcount>1</playcount>
+    <name>U.N. Defense Force: Earth Joker (Japan)</name>
+    <image>./media/images/earthjkr.png</image>
+  </game>
+  <game>
+    <path>./mainevt.zip</path>
+    <lastplayed>20200423T011351</lastplayed>
+    <playcount>1</playcount>
+    <name>The Main Event (4 Players ver. Y)</name>
+    <image>./media/images/mainevt.png</image>
+  </game>
+  <game>
+    <path>./thndzone.zip</path>
+    <lastplayed>20200423T013706</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Zone (World, Rev 1)</name>
+    <image>./media/images/thndzone.png</image>
+  </game>
+  <game>
+    <path>./totcarn.zip</path>
+    <lastplayed>20200423T071810</lastplayed>
+    <playcount>1</playcount>
+    <name>Total Carnage (rev LA1 03/10/92)</name>
+    <image>./media/images/totcarn.png</image>
+  </game>
+  <game>
+    <path>./astyanax.zip</path>
+    <lastplayed>20200423T010751</lastplayed>
+    <playcount>1</playcount>
+    <name>The Astyanax</name>
+    <image>./media/images/astyanax.png</image>
+  </game>
+  <game>
+    <path>./vamphalf.zip</path>
+    <lastplayed>20200423T080222</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Vamf x1/2 (Europe)</name>
+    <image>./media/images/vamphalf.png</image>
+  </game>
+  <game>
+    <path>./theroes.zip</path>
+    <lastplayed>20200423T013622</lastplayed>
+    <playcount>1</playcount>
+    <name>Thunder Heroes</name>
+    <image>./media/images/theroes.png</image>
+  </game>
+  <game>
+    <path>./topspeed.zip</path>
+    <lastplayed>20200423T071525</lastplayed>
+    <playcount>1</playcount>
+    <name>Top Speed (World)</name>
+    <image>./media/images/topspeed.png</image>
+  </game>
+  <game>
+    <path>./toutrun.zip</path>
+    <lastplayed>20200423T073820</lastplayed>
+    <playcount>5</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Turbo Out Run (Out Run upgrade, FD1094 317-0118)</name>
+    <image>./media/images/toutrun.png</image>
+  </game>
+  <game>
+    <path>./edrandy.zip</path>
+    <lastplayed>20200423T010832</lastplayed>
+    <playcount>1</playcount>
+    <name>The Cliffhanger - Edward Randy (World ver 3)</name>
+    <image>./media/images/edrandy.png</image>
+  </game>
+  <game>
+    <path>./tron.zip</path>
+    <lastplayed>20200423T072624</lastplayed>
+    <playcount>1</playcount>
+    <name>Tron (8/9)</name>
+    <image>./media/images/tron.png</image>
+  </game>
+  <game>
+    <path>./ultrax.zip</path>
+    <lastplayed>20200423T075607</lastplayed>
+    <playcount>1</playcount>
+    <name>Ultra X Weapons / Ultra Keibitai</name>
+    <image>./media/images/ultrax.png</image>
+  </game>
+  <game>
+    <path>./tmht2p.zip</path>
+    <lastplayed>20200423T010048</lastplayed>
+    <playcount>1</playcount>
+    <name>Teenage Mutant Hero Turtles (UK 2 Players, set 1)</name>
+    <image>./media/images/tmht2p.png</image>
+  </game>
+  <game>
+    <path>./mustang.zip</path>
+    <lastplayed>20200423T080031</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>US AAF Mustang (25th May. 1990)</name>
+    <image>./media/images/mustang.png</image>
+  </game>
+  <game>
+    <path>./toki.zip</path>
+    <lastplayed>20200423T013846</lastplayed>
+    <playcount>1</playcount>
+    <name>Toki (World, set 1)</name>
+    <image>./media/images/toki.png</image>
+  </game>
+  <game>
+    <path>./varth.zip</path>
+    <lastplayed>20200423T193332</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Varth: Operation Thunderstorm (World 920714)</name>
+    <image>./media/images/varth.png</image>
+  </game>
+  <game>
+    <path>./vasara2.zip</path>
+    <lastplayed>20200423T193647</lastplayed>
+    <playcount>3</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Vasara 2 (set 1)</name>
+    <image>./media/images/vasara2.png</image>
+  </game>
+  <game>
+    <path>./vasara.zip</path>
+    <lastplayed>20200423T193504</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Vasara</name>
+    <image>./media/images/vasara.png</image>
+  </game>
+  <game>
+    <path>./warriorb.zip</path>
+    <lastplayed>20200423T195246</lastplayed>
+    <playcount>1</playcount>
+    <name>Warrior Blade - Rastan Saga Episode III (Japan)</name>
+    <image>./media/images/warriorb.png</image>
+  </game>
+  <game>
+    <path>./vigilant.zip</path>
+    <lastplayed>20200423T194357</lastplayed>
+    <playcount>1</playcount>
+    <name>Vigilante (World, set 1)</name>
+    <image>./media/images/vigilant.png</image>
+  </game>
+  <game>
+    <path>./viostorm.zip</path>
+    <lastplayed>20200423T194711</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Violent Storm (ver EAC)</name>
+    <image>./media/images/viostorm.png</image>
+  </game>
+  <game>
+    <path>./wrestwar.zip</path>
+    <lastplayed>20200423T201444</lastplayed>
+    <playcount>2</playcount>
+    <name>Wrestle War (set 3, World, 8751 317-0103)</name>
+    <image>./media/images/wrestwar.png</image>
+  </game>
+  <game>
+    <path>./vendetta.zip</path>
+    <lastplayed>20200423T194255</lastplayed>
+    <playcount>2</playcount>
+    <name>Vendetta (World 4 Players ver. T)</name>
+    <image>./media/images/vendetta.png</image>
+  </game>
+  <game>
+    <path>./wrofaero.zip</path>
+    <lastplayed>20200423T195155</lastplayed>
+    <playcount>1</playcount>
+    <name>War of Aero - Project MEIOU</name>
+    <image>./media/images/wrofaero.png</image>
+  </game>
+  <game>
+    <path>./wildfang.zip</path>
+    <lastplayed>20200423T195317</lastplayed>
+    <playcount>1</playcount>
+    <name>Wild Fang / Tecmo Knight</name>
+    <image>./media/images/wildfang.png</image>
+  </game>
+  <game>
+    <path>./wwfwfest.zip</path>
+    <lastplayed>20200423T201523</lastplayed>
+    <playcount>1</playcount>
+    <name>WWF WrestleFest (US set 1)</name>
+    <image>./media/images/wwfwfest.png</image>
+  </game>
+  <game>
+    <path>./cstlevna.zip</path>
+    <lastplayed>20200423T195012</lastplayed>
+    <playcount>1</playcount>
+    <name>Vs. Castlevania</name>
+    <image>./media/images/cstlevna.png</image>
+  </game>
+  <game>
+    <path>./willow.zip</path>
+    <lastplayed>20200423T195340</lastplayed>
+    <playcount>1</playcount>
+    <name>Willow (USA)</name>
+    <image>./media/images/willow.png</image>
+  </game>
+  <game>
+    <path>./xmultipl.zip</path>
+    <lastplayed>20200423T201900</lastplayed>
+    <playcount>1</playcount>
+    <name>X Multiply (World, M81)</name>
+    <image>./media/images/xmultipl.png</image>
+  </game>
+  <game>
+    <path>./wrally.zip</path>
+    <lastplayed>20200423T195710</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>World Rally (set 1)</name>
+    <image>./media/images/wrally.png</image>
+  </game>
+  <game>
+    <path>./suprmrio.zip</path>
+    <lastplayed>20200423T195033</lastplayed>
+    <playcount>1</playcount>
+    <name>Vs. Super Mario Bros. (set SM4-4 E)</name>
+    <image>./media/images/suprmrio.png</image>
+  </game>
+  <game>
+    <path>./wizdfire.zip</path>
+    <lastplayed>20200423T195432</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>Wizard Fire (Over Sea v2.1)</name>
+    <image>./media/images/wizdfire.png</image>
+  </game>
+  <game>
+    <path>./xybots.zip</path>
+    <lastplayed>20200423T213808</lastplayed>
+    <playcount>1</playcount>
+    <name>Xybots (rev 2)</name>
+    <image>./media/images/xybots.png</image>
+  </game>
+  <game>
+    <path>./xenophob.zip</path>
+    <lastplayed>20200423T213552</lastplayed>
+    <playcount>1</playcount>
+    <name>Xenophobe</name>
+    <image>./media/images/xenophob.png</image>
+  </game>
+  <game>
+    <path>./xexex.zip</path>
+    <lastplayed>20200423T213636</lastplayed>
+    <playcount>1</playcount>
+    <name>Xexex (ver EAA)</name>
+    <image>./media/images/xexex.png</image>
+  </game>
+  <game>
+    <path>./zerowing.zip</path>
+    <lastplayed>20200423T214307</lastplayed>
+    <playcount>1</playcount>
+    <name>Zero Wing (2P set)</name>
+    <image>./media/images/zerowing.png</image>
+  </game>
+  <game>
+    <path>./zingzip.zip</path>
+    <lastplayed>20200423T214341</lastplayed>
+    <playcount>1</playcount>
+    <name>Zing Zing Zip</name>
+    <image>./media/images/zingzip.png</image>
+  </game>
+  <game>
+    <path>./xmen.zip</path>
+    <lastplayed>20200423T213236</lastplayed>
+    <playcount>2</playcount>
+    <core>mame2010</core>
+    <emulator>libretro</emulator>
+    <name>X-Men (4 Players ver UBB)</name>
+    <image>./media/images/xmen.png</image>
+  </game>
+  <game>
+    <path>./zaxxon.zip</path>
+    <lastplayed>20200423T214125</lastplayed>
+    <playcount>2</playcount>
+    <name>Zaxxon (set 1)</name>
+    <image>./media/images/zaxxon.png</image>
+  </game>
+  <game>
+    <path>./yiear.zip</path>
+    <lastplayed>20200423T213912</lastplayed>
+    <playcount>1</playcount>
+    <name>Yie Ar Kung-Fu (program code I)</name>
+    <image>./media/images/yiear.png</image>
+  </game>
+  <game>
+    <path>./xmvsf.zip</path>
+    <lastplayed>20200423T213337</lastplayed>
+    <playcount>1</playcount>
+    <name>X-Men Vs. Street Fighter (Euro 961004)</name>
+    <image>./media/images/xmvsf.png</image>
+  </game>
+  <game>
+    <path>./xmcota.zip</path>
+    <lastplayed>20200423T213426</lastplayed>
+    <playcount>1</playcount>
+    <name>X-Men: Children of the Atom (Euro 950331)</name>
+    <image>./media/images/xmcota.png</image>
+  </game>
+</gameList>
