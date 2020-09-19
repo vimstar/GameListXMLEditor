@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 using NLog;
 
@@ -13,6 +10,13 @@ namespace GameListXMLEditor
     {
         private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
 
+        /// <summary>
+        /// This function parses the XML and looks for images to associate with each game. If found the image will be copied 
+        /// and the XML updated with the image path.
+        /// </summary>
+        /// <param name="xmlPath"></param>
+        /// <param name="extension"></param>
+        /// <param name="imagePath"></param>
         public static void ProcessXML(string xmlPath, string extension, string imagePath = null)
         {
             if (!File.Exists(xmlPath))
@@ -51,9 +55,6 @@ namespace GameListXMLEditor
 
                 fileName = fileName.Substring(filenameStart, (filenameEnd - filenameStart) + 1);
 
-
-                //fileName = fileName.Replace(removePre, "");
-                //fileName = fileName.Replace(removePost, "");
                 fileName = fileName + extension;
 
                 string mediaFileName = "./media/images/" + fileName;
@@ -73,22 +74,19 @@ namespace GameListXMLEditor
                             node.Add(new XElement("image", mediaFileName));
                     }
                 }
-                else
-                {
-                    if (!exist)
-                        node.Add(new XElement("image", mediaFileName));
-                }
             }
 
             doc.Save(xmlPath + ".new");
         }
 
+        /// <summary>
+        /// Change the Name field for each game to match the name of the game file.
+        /// </summary>
+        /// <param name="xmlPath"></param>
         public static void FixNames(string xmlPath)
         {
             if (!File.Exists(xmlPath))
-            {
                 return;
-            }
 
             XDocument doc = XDocument.Load(xmlPath);
 
@@ -122,6 +120,11 @@ namespace GameListXMLEditor
             doc.Save(xmlPath + ".new");
         }
 
+        /// <summary>
+        /// This will validate that each image exists that is listed in the gamelist.xml file.
+        /// </summary>
+        /// <param name="xmlPath"></param>
+        /// <param name="imagePath"></param>
         public static void ValidateImages(string xmlPath, string imagePath)
         {
             if (!File.Exists(xmlPath))

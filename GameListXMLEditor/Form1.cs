@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Reflection;
 using System.Windows.Forms;
 using NLog;
 
@@ -19,6 +14,8 @@ namespace GameListXMLEditor
         public Form1()
         {
             InitializeComponent();
+            this.Text = $"Recalbox GameList XML Editor v{Assembly.GetEntryAssembly().GetName().Version.Major}.{Assembly.GetEntryAssembly().GetName().Version.Minor}";
+            tbPath.Text = Directory.GetCurrentDirectory() + @"\gamelist.xml";
         }
 
         private void btnBrowse_Click(object sender, EventArgs e)
@@ -39,13 +36,9 @@ namespace GameListXMLEditor
             }
         }
 
-        private void tbExt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnProcess_Click(object sender, EventArgs e)
         {
+            // This will process the file based on the selected options
             StartFeedback(0);
             try
             {
@@ -63,9 +56,13 @@ namespace GameListXMLEditor
                 {
                     ImageElementUpdater.ValidateImages(tbPath.Text, imagesPath);
                 }
-                else
+                else if (chkCopyImages.Checked)
                 {
                     ImageElementUpdater.ProcessXML(tbPath.Text, tbExt.Text, imagesPath);
+                }
+                else
+                {
+                    MessageBox.Show("No valid option was selected.", "Invalid Option", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 StartFeedback(1);
             }
@@ -78,6 +75,34 @@ namespace GameListXMLEditor
 
         private void chkCopyImages_CheckedChanged(object sender, EventArgs e)
         {
+            if (chkCopyImages.Checked)
+            {
+                chkValidate.Checked = false;
+                chkNameFile.Checked = false;
+            }
+
+            ImageCheckChange();
+        }
+
+        private void chkValidate_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkValidate.Checked)
+            {
+                chkCopyImages.Checked = false;
+                chkNameFile.Checked = false;
+            }
+
+            ImageCheckChange();
+        }
+
+        private void chkNameFile_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkNameFile.Checked)
+            {
+                chkCopyImages.Checked = false;
+                chkValidate.Checked = false;
+            }
+
             ImageCheckChange();
         }
 
@@ -86,10 +111,12 @@ namespace GameListXMLEditor
             if (chkCopyImages.Checked || chkValidate.Checked)
             {
                 tbImagePath.Enabled = true;
+                tbExt.Enabled = true;
             }
             else
             {
                 tbImagePath.Enabled = false;
+                tbExt.Enabled = false;
             }
         }
 
@@ -130,8 +157,7 @@ namespace GameListXMLEditor
                     btnProcess.Enabled = true;
                     break;
             }
-
-            Application.DoEvents();
         }
+
     }
 }

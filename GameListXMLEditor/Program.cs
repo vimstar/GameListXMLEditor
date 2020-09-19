@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using NLog;
 // Used to embed DLL's into EXE
@@ -32,6 +29,7 @@ namespace GameListXMLEditor
             Application.Run(new Form1());
         }
 
+        // Used to embed DLL's into EXE 
         private static Assembly OnResolveAssembly(object sender, ResolveEventArgs args)
         {
             Assembly executingAssembly = Assembly.GetExecutingAssembly();
